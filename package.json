@@ -1,6 +1,6 @@
 {
   "name": "use-reading-duration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom React hook that estimates the reading time of any given text.",
   "main": "index.js",
   "scripts": {
