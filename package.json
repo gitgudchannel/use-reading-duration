@@ -1,0 +1,35 @@
+{
+  "name": "use-reading-duration",
+  "version": "1.0.0",
+  "description": "A custom React hook that estimates the reading time of any given text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitgudchannel/use-reading-duration.git"
+  },
+  "keywords": [
+    "hooks",
+    "react",
+    "reading",
+    "time",
+    "blog",
+    "next",
+    "use-state",
+    "use-memo",
+    "use-ref",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Josip Ledic",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gitgudchannel/use-reading-duration/issues"
+  },
+  "homepage": "https://github.com/gitgudchannel/use-reading-duration#readme",
+  "peerDependencies": {
+    "react": "^17.0.0"
+  }
+}
