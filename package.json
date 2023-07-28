@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/gitgudchannel/use-reading-duration#readme",
   "peerDependencies": {
-    "react": "^17.0.0"
+    "react": "^18.0.0"
   }
 }
